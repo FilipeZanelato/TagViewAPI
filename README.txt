@@ -1,0 +1,1 @@
+Desculpa o código, dei meu melhor mas foi a primeira vez que mexi com API. Ano que vem tentarei novamente e prometo não decepcioná-los.
