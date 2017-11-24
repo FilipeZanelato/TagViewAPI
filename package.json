@@ -1,0 +1,19 @@
+{
+ "name": "node_js-api",
+ "version": "1.0.0",
+ "description": "api rest que fornece dados de usuarios e canais do respectivo chat",
+ "main": "api.js",
+ "scripts": {
+  "test": "echo\"Error: no test specified\"&&exit1"
+ },
+ "author": "Filipe Figueira Souza Zanelato",
+ "license": "ISC",
+ "dependencies": {
+  "body-parser": "^1.17.1",
+  "cors": "^2.8.3",
+  "express": "^4.15.2",
+  "js2xmlparser": "^3.0.0",
+  "requirejs": "^2.3.5",
+  "xmlhttprequest": "^1.8.0"
+ }
+}
